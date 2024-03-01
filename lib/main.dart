@@ -45,6 +45,7 @@ class MyApp extends StatelessWidget {
     //   Navigator.push(context, MaterialPageRoute(builder: (context)=> Profile(profile: usrDetails)));
   }
 
+
   // TODO: implement initState
 
   @override
